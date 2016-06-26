@@ -1,0 +1,6 @@
+E:\My\Labs\Epam\Vitalii_Korunov_Task1\Task2\bin\Debug\Task2.exe.config
+E:\My\Labs\Epam\Vitalii_Korunov_Task1\Task2\bin\Debug\Task2.exe
+E:\My\Labs\Epam\Vitalii_Korunov_Task1\Task2\bin\Debug\Task2.pdb
+E:\My\Labs\Epam\Vitalii_Korunov_Task1\Task2\obj\Debug\Task2.exe
+E:\My\Labs\Epam\Vitalii_Korunov_Task1\Task2\obj\Debug\Task2.pdb
+E:\My\Labs\Epam\Vitalii_Korunov_Task1\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache

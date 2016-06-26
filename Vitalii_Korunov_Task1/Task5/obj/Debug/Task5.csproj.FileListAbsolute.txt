@@ -1,0 +1,5 @@
+E:\My\Labs\Epam\Vitalii_Korunov_Task1\Task5\bin\Debug\Task5.exe.config
+E:\My\Labs\Epam\Vitalii_Korunov_Task1\Task5\bin\Debug\Task5.exe
+E:\My\Labs\Epam\Vitalii_Korunov_Task1\Task5\bin\Debug\Task5.pdb
+E:\My\Labs\Epam\Vitalii_Korunov_Task1\Task5\obj\Debug\Task5.exe
+E:\My\Labs\Epam\Vitalii_Korunov_Task1\Task5\obj\Debug\Task5.pdb
