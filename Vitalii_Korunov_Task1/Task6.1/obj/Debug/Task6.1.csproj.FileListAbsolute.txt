@@ -1,0 +1,6 @@
+E:\My\Git\GitHubRepository\Vitalii_Korunov_Task1\Task6.1\bin\Debug\Task6.1.exe.config
+E:\My\Git\GitHubRepository\Vitalii_Korunov_Task1\Task6.1\bin\Debug\Task6.1.exe
+E:\My\Git\GitHubRepository\Vitalii_Korunov_Task1\Task6.1\bin\Debug\Task6.1.pdb
+E:\My\Git\GitHubRepository\Vitalii_Korunov_Task1\Task6.1\obj\Debug\Task6.1.csprojResolveAssemblyReference.cache
+E:\My\Git\GitHubRepository\Vitalii_Korunov_Task1\Task6.1\obj\Debug\Task6.1.exe
+E:\My\Git\GitHubRepository\Vitalii_Korunov_Task1\Task6.1\obj\Debug\Task6.1.pdb

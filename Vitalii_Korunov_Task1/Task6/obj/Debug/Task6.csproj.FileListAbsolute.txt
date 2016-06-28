@@ -4,3 +4,6 @@ E:\My\Labs\Epam\Vitalii_Korunov_Task1\Task6\bin\Debug\Task6.pdb
 E:\My\Labs\Epam\Vitalii_Korunov_Task1\Task6\obj\Debug\Task6.csprojResolveAssemblyReference.cache
 E:\My\Labs\Epam\Vitalii_Korunov_Task1\Task6\obj\Debug\Task6.exe
 E:\My\Labs\Epam\Vitalii_Korunov_Task1\Task6\obj\Debug\Task6.pdb
+E:\My\Git\GitHubRepository\Vitalii_Korunov_Task1\Task6\bin\Debug\Task6.exe.config
+E:\My\Git\GitHubRepository\Vitalii_Korunov_Task1\Task6\obj\Debug\Task6.exe
+E:\My\Git\GitHubRepository\Vitalii_Korunov_Task1\Task6\obj\Debug\Task6.pdb
