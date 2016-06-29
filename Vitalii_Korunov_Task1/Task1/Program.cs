@@ -12,24 +12,24 @@ namespace Task1
         {
             Console.CursorVisible = false;
             bool isRepeat = true;
-            int a=0;
-            int b=0;
+            int length=0;
+            int width=0;
             while(isRepeat)
             {
                 Console.WriteLine("Введите длину стороны A");
-                while (!int.TryParse(Console.ReadLine(), out a)) 
+                while (!int.TryParse(Console.ReadLine(), out length)) 
                 {
                     Console.WriteLine("Введите длину стороны A");
                 }
 
                 Console.WriteLine("Введите длину стороны B");
-                while (!int.TryParse(Console.ReadLine(), out b))
+                while (!int.TryParse(Console.ReadLine(), out width))
                 {
                     Console.WriteLine("Введите длину стороны B");
                 }
 
-                if (a > 0 && b > 0)
-                    Console.WriteLine("Площадь прямоугольника со сторонами A={0} и B={1} равна {2} ", a, b, a * b);
+                if (length > 0 && width > 0)
+                    Console.WriteLine("Площадь прямоугольника со сторонами A={0} и B={1} равна {2} ", length, width, length * width);
                 else
                     Console.WriteLine("Стороны <=0");
 

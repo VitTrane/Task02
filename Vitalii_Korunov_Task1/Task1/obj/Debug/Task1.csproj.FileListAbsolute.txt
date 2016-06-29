@@ -4,3 +4,9 @@ E:\My\Labs\Epam\Vitalii_Korunov_Task1\Task1\bin\Debug\Task1.pdb
 E:\My\Labs\Epam\Vitalii_Korunov_Task1\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
 E:\My\Labs\Epam\Vitalii_Korunov_Task1\Task1\obj\Debug\Task1.exe
 E:\My\Labs\Epam\Vitalii_Korunov_Task1\Task1\obj\Debug\Task1.pdb
+E:\My\Git\GitHubRepository\Vitalii_Korunov_Task1\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+E:\My\Git\GitHubRepository\Vitalii_Korunov_Task1\Task1\obj\Debug\Task1.exe
+E:\My\Git\GitHubRepository\Vitalii_Korunov_Task1\Task1\bin\Debug\Task1.exe.config
+E:\My\Git\GitHubRepository\Vitalii_Korunov_Task1\Task1\bin\Debug\Task1.exe
+E:\My\Git\GitHubRepository\Vitalii_Korunov_Task1\Task1\bin\Debug\Task1.pdb
+E:\My\Git\GitHubRepository\Vitalii_Korunov_Task1\Task1\obj\Debug\Task1.pdb
