@@ -50,10 +50,10 @@ namespace Task6._1
             }
         }
 
-        private static void SetParemeter(int numberParameter,string parametr) 
+        private static void SetParemeter(int numberParameter,string parameter) 
         {
             if (_fontStyles[numberParameter] == null)
-                _fontStyles[numberParameter] = parametr;
+                _fontStyles[numberParameter] = parameter;
             else
                 _fontStyles[numberParameter] = null;
         }
