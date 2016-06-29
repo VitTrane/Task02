@@ -44,12 +44,12 @@ namespace Task4
                 Console.WriteLine();
                 
                 //Вывод остальных треугольников
-                int linesCountInTriangle = DEFAULT_COUNTS_LINES_IN_TRIANGLE;
+                int countLinestInTriangle = DEFAULT_COUNTS_LINES_IN_TRIANGLE;
                 startPositionChar = trianglesCount;
                 for (int i = 0; i < trianglesCount-1; i++)
                 {                    
-                    OutputTriangle(linesCountInTriangle,startPositionChar);
-                    linesCountInTriangle++;
+                    OutputTriangle(countLinestInTriangle,startPositionChar);
+                    countLinestInTriangle++;
                 }
                 
                 Console.WriteLine("Повторить? Для повтора введите Y , для выхода введите любую клавишу");
