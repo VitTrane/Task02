@@ -8,6 +8,8 @@ namespace Task4
 {
     class Program
     {
+        private const int DEFAULT_COUNTS_LINES_IN_TRIANGLE=3;
+
         static void Main(string[] args)
         {
             Console.CursorVisible = false;
@@ -42,7 +44,7 @@ namespace Task4
                 Console.WriteLine();
                 
                 //Вывод остальных треугольников
-                int linesCountInTriangle=3;
+                int linesCountInTriangle = DEFAULT_COUNTS_LINES_IN_TRIANGLE;
                 startPositionChar = trianglesCount;
                 for (int i = 0; i < trianglesCount-1; i++)
                 {                    
