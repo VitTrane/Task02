@@ -22,7 +22,8 @@ namespace Task6._1
                 string parameters="";
                 for (int i = 1; i < _fontStyles.Length; i++)
                 {
-                    parameters += _fontStyles[i] + " ";
+                    if (_fontStyles[i]!=null)
+                        parameters += _fontStyles[i] + " ";
                 }
                 if(!string.IsNullOrWhiteSpace(parameters))
                     Console.WriteLine("Параметры надписи: {0} ", parameters);
