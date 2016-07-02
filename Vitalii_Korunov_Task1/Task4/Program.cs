@@ -12,7 +12,6 @@ namespace Task4
 
         static void Main(string[] args)
         {
-            Console.CursorVisible = false;
             Console.ForegroundColor = ConsoleColor.Green;
             int trianglesCount = 0;
             int startPositionChar = 0;

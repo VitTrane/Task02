@@ -10,7 +10,6 @@ namespace Task2
     {
         static void Main(string[] args)
         {
-            Console.CursorVisible = false;
             Console.ForegroundColor = ConsoleColor.Green;
             int linesCount = 0;
             bool isRepeat = true;

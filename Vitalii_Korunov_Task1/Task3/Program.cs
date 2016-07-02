@@ -10,7 +10,6 @@ namespace Task3
     {
         static void Main(string[] args)
         {
-            Console.CursorVisible = false;
             Console.ForegroundColor = ConsoleColor.Green;
             int linesCount = 0;
             int startPositionChar = 0;

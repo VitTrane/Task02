@@ -10,7 +10,6 @@ namespace Task5
     {
         static void Main(string[] args)
         {
-            Console.CursorVisible = false;
             int sum = 0;
             for (int i = 0; i < 1000; i++)
             {

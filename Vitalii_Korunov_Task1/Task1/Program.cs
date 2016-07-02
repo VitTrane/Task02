@@ -10,7 +10,6 @@ namespace Task1
     {
         static void Main(string[] args)
         {
-            Console.CursorVisible = false;
             bool isRepeat = true;
             int length=0;
             int width=0;

@@ -20,7 +20,6 @@ namespace Task6
 
         static void Main(string[] args)
         {
-            Console.CursorVisible = false;
             Console.ForegroundColor = ConsoleColor.Green;
             Font font=Font.None;            
             bool isRepeat = true;

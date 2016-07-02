@@ -12,7 +12,6 @@ namespace Task6._1
 
         static void Main(string[] args)
         {
-            Console.CursorVisible = false;
             Console.ForegroundColor = ConsoleColor.Green;
 
             _fontStyles[0] = "None";
