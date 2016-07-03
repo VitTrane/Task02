@@ -18,7 +18,7 @@ namespace Task7
         private const char SEPARATOR = ';';
 
         public static event NotificationHandler AfterRead;
-        public static event NotificationHandler AfterhWrite;
+        public static event NotificationHandler AfterWrite;
 
         private static string _pathInputFile = "input.txt";
         private static string _pathOutputFile = "output.txt";
@@ -29,7 +29,7 @@ namespace Task7
         static void Main(string[] args)
         {
             AfterRead += ShowMessage;
-            AfterhWrite += ShowMessage;
+            AfterWrite += ShowMessage;
 
             ReadFile();
             ProcessingData();
@@ -87,8 +87,8 @@ namespace Task7
 
         private static void OnAfterWrite(string message)
         {
-            if (AfterhWrite != null)
-                AfterhWrite(message);
+            if (AfterWrite != null)
+                AfterWrite(message);
         }
 
         private static void Sum(long number)
